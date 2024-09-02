@@ -1,6 +1,6 @@
 # Vrinda-Store-Data-Analysis-Excel-Project
 
-The analysis of Vrinda Store's data reveals key trends :Monthly Sales,Gender-Based Sales,Order Status,Regional Performance,Customer Demographics and the purpose of this analysis is to gain insights into the sales performance and customer behavior of Vrinda Store for the year 2022.
+The analysis of Vrinda Store's data reveals following key trends :Monthly Sales,Gender-Based Sales,Order Status,Regional Performance,Customer Demographics and the purpose of this analysis is to gain insights into the sales performance and customer behavior of Vrinda Store for the year 2022.
 
 
 The analysis of Vrinda Store's data reveals key trends: monthly sales show a steady increase, with a notable peak in March. Women contribute significantly more to total sales compared to men. Most orders are successfully delivered, but there is a small proportion of cancellations and refunds. Maharashtra, Karnataka, and Uttar Pradesh are the top-performing states in terms of sales. Customer demographics indicate that adults, particularly women, are the primary buyers.
